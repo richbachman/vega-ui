@@ -1,0 +1,16 @@
+{
+  "shadow": {
+    "border-primary-weak": {
+      "$value": "0 0 0 1px #6ee7b7"
+    },
+    "border-primary": {
+      "$value": "0 0 0 1px #10b981"
+    },
+    "border-primary-strong": {
+      "$value": "0 0 0 1px #047857"
+    },
+    "border-weak": {
+      "$value": "0 0 0 1px #cbd5e1"
+    }
+  }
+}

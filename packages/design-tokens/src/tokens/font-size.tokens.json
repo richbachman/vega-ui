@@ -1,0 +1,36 @@
+{
+  "fontSize": {
+    "10": {
+      "$value": "0.75rem",
+      "$description": "12px"
+    },
+    "20": {
+      "$value": "0.875rem",
+      "$description": "14px"
+    },
+    "30": {
+      "$value": "1rem",
+      "$description": "16px"
+    },
+    "40": {
+      "$value": "1.25rem",
+      "$description": "20px"
+    },
+    "50": {
+      "$value": "1.5rem",
+      "$description": "24px"
+    },
+    "60": {
+      "$value": "2rem",
+      "$description": "32px"
+    },
+    "70": {
+      "$value": "2.5rem",
+      "$description": "40px"
+    },
+    "80": {
+      "$value": "5rem",
+      "$description": "80px"
+    }
+  }
+}

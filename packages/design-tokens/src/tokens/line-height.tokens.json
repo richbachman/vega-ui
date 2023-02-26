@@ -1,0 +1,44 @@
+{
+  "lineHeight": {
+    "0": {
+      "$value": "0",
+      "$description": "0px for icon lineHeight"
+    },
+    "5": {
+      "$value": "1rem",
+      "$description": "16px"
+    },
+    "10": {
+      "$value": "1.25rem",
+      "$description": "20px"
+    },
+    "20": {
+      "$value": "1.5rem",
+      "$description": "24px"
+    },
+    "30": {
+      "$value": "1.75rem",
+      "$description": "28px"
+    },
+    "40": {
+      "$value": "2rem",
+      "$description": "32px"
+    },
+    "50": {
+      "$value": "2.5rem",
+      "$description": "40px"
+    },
+    "60": {
+      "$value": "3rem",
+      "$description": "48px"
+    },
+    "70": {
+      "$value": "3.5rem",
+      "$description": "56px"
+    },
+    "80": {
+      "$value": "6rem",
+      "$description": "99px"
+    }
+  }
+}

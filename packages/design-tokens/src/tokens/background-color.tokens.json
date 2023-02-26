@@ -1,0 +1,31 @@
+{
+  "color": {
+    "background": {
+      "$value": "#f8fafc"
+    },
+    "background-body": {
+      "$value": "#ffffff"
+    },
+    "background-success": {
+      "$value": "#16a34a"
+    },
+    "background-primary-weak": {
+      "$value": "#6ee7b7"
+    },
+    "background-primary": {
+      "$value": "#10b981"
+    },
+    "background-primary-strong": {
+      "$value": "#047857"
+    },
+    "background-destructive": {
+      "$value": "#dc2626"
+    },
+    "background-inverse": {
+      "$value": "#ffffff"
+    },
+    "background-weak": {
+      "$value": "#cbd5e1"
+    }
+  }
+}

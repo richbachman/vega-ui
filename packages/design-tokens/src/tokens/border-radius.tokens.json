@@ -1,0 +1,16 @@
+{
+  "borderRadius": {
+    "30": {
+      "$value": "3px"
+    },
+    "50": {
+      "$value": "5px"
+    },
+    "100": {
+      "$value": "100px"
+    },
+    "circle": {
+      "$value": "50%"
+    }
+  }
+}

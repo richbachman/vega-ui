@@ -1,0 +1,16 @@
+{
+  "color": {
+    "border-primary-weak": {
+      "$value": "#6ee7b7"
+    },
+    "border-primary": {
+      "$value": "#10b981"
+    },
+    "border-primary-strong": {
+      "$value": "#047857"
+    },
+    "border-weak": {
+      "$value": "#cbd5e1"
+    }
+  }
+}

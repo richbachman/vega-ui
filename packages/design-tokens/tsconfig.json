@@ -3,6 +3,7 @@
   "compilerOptions": {
     "declaration": true,
     "declarationMap": true,
+    "incremental": true,
     "target": "es6",
     "module": "ESNext",
     "allowJs": true,
@@ -10,10 +11,8 @@
     "outDir": "./dist",
     "sourceMap": true,
     "alwaysStrict": true,
-    "allowSyntheticDefaultImports": true,
-    "jsx": "react-jsx",
-    "resolveJsonModule": true
+    "allowSyntheticDefaultImports": true
   },
-  "include": ["**/*.ts", "**/*.tsx"],
-  "exclude": ["dist", "**/*.stories.tsx", "build", "node_modules"]
+  "include": ["./src", "./build.mts"],
+  "exclude": ["dist", "build", "node_modules"]
 }

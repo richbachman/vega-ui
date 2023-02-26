@@ -31,3 +31,9 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+# dist
+dist/
+
+# Jest
+.jest-cache

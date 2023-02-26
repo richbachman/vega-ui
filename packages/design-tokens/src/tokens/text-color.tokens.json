@@ -1,0 +1,23 @@
+{
+  "color": {
+    "text-weak": {
+      "$value": "#a3a3a3"
+    },
+    "text": {
+      "$value": "#18181b",
+      "$description": "Base text color."
+    },
+    "text-success": {
+      "$value": "#16a34a"
+    },
+    "text-primary": {
+      "$value": "#4f46e5"
+    },
+    "text-destructive": {
+      "$value": "#dc2626"
+    },
+    "text-inverse": {
+      "$value": "#ffffff"
+    }
+  }
+}
